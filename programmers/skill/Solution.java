@@ -1,4 +1,4 @@
-package test;
+package skill;
 
 import java.util.*;
 
