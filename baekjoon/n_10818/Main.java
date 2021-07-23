@@ -20,15 +20,15 @@ public class Main{
 		
 	Scanner scan = new Scanner(System.in);
 	int a, b;
-//	a = scan.nextInt();
-//	b = scan.nextShort();
+	a = scan.nextInt();
 	
-	String str = "";
-	str =  scan.next();
-
+	int[] test = new int[a];
 	
-	System.out.println(str);
-//	System.out.println(b);
-
+	for (int i = 0; i < test.length; i++) {
+		test[i] = scan.nextInt();
+	}
+	
+	scan.close();
+	
 	}
 }
