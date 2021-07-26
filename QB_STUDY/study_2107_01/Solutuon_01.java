@@ -1,7 +1,7 @@
 package study_2107_01;
 
 import java.util.*;
-public class Main{
+public class Solutuon_01{
 	public static void main(String args[]){
 	
 //		문제 백준 10818
